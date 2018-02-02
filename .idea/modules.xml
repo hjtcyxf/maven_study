@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accountemail/Account Email.iml" filepath="$PROJECT_DIR$/accountemail/Account Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountcaptcha/accountcaptcha.iml" filepath="$PROJECT_DIR$/accountcaptcha/accountcaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountpersist/accountpersist.iml" filepath="$PROJECT_DIR$/accountpersist/accountpersist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_study.iml" filepath="$PROJECT_DIR$/maven_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenplugins/mavenplugins.iml" filepath="$PROJECT_DIR$/mavenplugins/mavenplugins.iml" />
+    </modules>
+  </component>
+</project>
